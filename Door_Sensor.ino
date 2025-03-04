@@ -97,7 +97,7 @@ void loop() {
 
 void sendGoogle(String sensor1, float sensor2) {
   HTTPClient http;
-  String url = "https://script.google.com/macros/s/" + String(scriptId) + "/exec?id=" + sheetName;
+  String url = "xxxxxxxxxxx" + String(scriptId) + "/exec?id=" + sheetName;
   url += "&Sensor1=" + String(sensor1);
   url += "&Sensor2=" + String(sensor2);
 
