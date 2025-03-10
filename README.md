@@ -1,6 +1,3 @@
-Here’s a structured **README** file for your **Smart Home Automation** project. Let me know if you'd like any modifications! 🚀  
-
----
 
 # **Smart Home Automation Using ESP32 & Arduino IoT Cloud**  
 
